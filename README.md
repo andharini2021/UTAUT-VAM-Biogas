@@ -39,13 +39,7 @@ significance decisions.
 The released file contains no names or direct identifiers. Respondent IDs were re-coded and
 demographic variables other than regency and herd size were removed to limit re-identification risk,
 so Table 1 (respondent profile) of the article cannot be reproduced from this file.
-[TO CONFIRM: Full demographic data: available from the corresponding author on reasonable request, subject to ethics approval conditions.]
+[Full demographic data: available from the corresponding author on reasonable request, subject to ethics approval conditions.]
 
 ## Not implemented
 MICOM, permutation MGA, PLSpredict/CVPAT and SRMR (reported from SmartPLS 4 in the article).
-
-## License
-Code: MIT. Data: CC BY 4.0. [TO CONFIRM: Confirm before publishing.]
-
-## Citation
-[TO CONFIRM: Add article citation / Zenodo DOI after acceptance.]
